@@ -1,10 +1,17 @@
-Guide officiel de style
+Obsolète
 
-En collaboration avec l'équipe de base Angular et John Papa, nous travaillons sur un guide de style officiel qui intègre toutes les meilleures pratiques de:
+Angular 2 Guide de Style
+
+** Guide officiel de style **
+
+Avec l'équipe Angular et John Papa, nous travaillons sur un guide de style officiel qui intègre toutes les meilleures pratiques de:
 
 Pratiques découvertes lors de l'utilisation interne d'Angular 2 dans Google.
-La version précédente de ce guide de style, que l'on peut trouver ici.
-AngularJS 1.x de John Papa et guides de style Angular 2.
-La version précédente du guide de style peut être trouvée ici.
+La version précédente de ce guide de style, qui peut être trouvée ici.
+AngularJS 1.x et Angular 2 [guides de style] de John Papa (https://github.com/johnpapa/angle-styleguide).
+La version précédente du guide de style peut être trouvée ici [./ old / README.md].
 
-Le guide de style officiel peut être trouvé ici.
+Le guide officiel de style peut être trouvé ici (https://angular.io/styleguide).
+
+
+
