@@ -1,3 +1,4 @@
+angular2-style-guide  c'est la traduction en francais de : https://github.com/mgechev/angular2-style-guide
 Obsolète
 
 Angular 2 Guide de Style
